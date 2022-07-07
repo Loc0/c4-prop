@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CPackFileMetaData>
+  <MapDataGroups/>
+  <HDTxdBindingArray/>
+  <imapDependencies/>
+  <imapDependencies_2>
+    <Item>
+      <imapName>map1</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+        <Item>groovy_c4</Item>
+      </itypDepArray>
+    </Item>
+    <Item>
+      <imapName>groovy_c4</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+        <Item>groovy_c4</Item>
+      </itypDepArray>
+    </Item>
+  </imapDependencies_2>
+  <itypDependencies_2/>
+  <Interiors/>
+</CPackFileMetaData>
